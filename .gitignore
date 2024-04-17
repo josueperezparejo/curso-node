@@ -1,0 +1,4 @@
+# Ignorar directorios generados automáticamente
+/build/
+/dist/
+/node_modules/
